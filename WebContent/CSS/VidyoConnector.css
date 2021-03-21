@@ -1,0 +1,31 @@
+
+#renderer {
+	position:     absolute;
+	top:          0px;
+	right:        0px;
+	bottom:       0px;
+	left:         0px;
+	z-index: 0;
+}
+
+#joinLeaveButton{
+	position : absolute;
+	bottom : 2%;
+	right : 50%;
+	z-index: 2;
+}
+
+#changeCamButton{
+	position : absolute;
+	bottom : 2%;
+	left : 2%;
+	z-index : 1;
+}
+
+
+#microphoneButton{
+	position : absolute;
+	bottom : 2%;
+	right : 2%;
+	z-index : 1;
+}
